@@ -1,2 +1,2 @@
-This is my First txt file Please! add it to github repo
+This is my First Pull request Please! accept it.
 
